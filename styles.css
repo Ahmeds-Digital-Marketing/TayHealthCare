@@ -1,0 +1,60 @@
+
+.logo{
+  width: 150px;
+  height: 120px;
+  /* padding-right:60%; */
+  margin-left: 10px;
+}
+
+#carouselExampleIndicators{
+  width:auto;
+  height:auto;
+    /* background-color: black; */
+  /* padding-left:10%; */
+}
+
+
+nav{
+  position:static;
+}
+
+.d-block{
+  height:35%;
+  width:100%;
+}
+
+
+.carousel-control-next-icon:hover{
+  background-color:lightblue ;
+}
+
+.carousel-control-prev-icon:hover{
+  background-color: lightblue;
+}
+
+#footer{
+  background-color:lightblue;
+  /* width: 100%; */
+  margin-bottom:0;
+  padding: 0;
+  text-align: center;
+
+}
+
+.white1{
+  text-align: center;
+}
+
+.footerlogo{
+  width: 500px;
+  height: 300px;
+}
+
+#nnn{
+  padding-left: 80px;
+}
+
+.nimg{
+  height: 200px;
+  width: 300px;
+}
